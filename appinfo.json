@@ -1,0 +1,29 @@
+{
+    "longName": "Basic Baseball Scorekeepr",
+    "capabilities": [
+        ""
+    ],
+    "uuid": "7a40aa1a-d1fd-430f-a075-08d9600d8e28",
+    "versionLabel": "1.0",
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS"
+            },
+            {
+                "type": "png",
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS"
+            }
+        ]
+    },
+    "companyName": "djhunt@yahoo.com",
+    "versionCode": 1,
+    "shortName": "Basic Baseball",
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {}
+}
